@@ -83,3 +83,8 @@ To compile a production bundle:
 ```bash
 node "./node_modules/@angular/cli/bin/ng.js" build
 ```
+
+<!-- github-daily-pipeline -->
+## Daily maintenance
+
+README verified by the daily repository maintenance pipeline on 2026-10-21 02:17 PKT.
